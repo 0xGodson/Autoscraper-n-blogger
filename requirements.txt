@@ -3,3 +3,4 @@ bs4
 google
 pyTelegramBotAPI
 lxml
+gevent>=23.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
